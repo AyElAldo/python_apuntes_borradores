@@ -1,0 +1,31 @@
+**********************************************************
+**********************************************************
+
+            Lenguaje: PYTHON - Guido Van Rossum
+
+                    https://pypi.org/
+
+**********************************************************
+**********************************************************
+
+- Lenguaje mas utilizado en 2022
+
+- Alto nivel
+
+- Interpretado: Se ejecuta el código directamente sin la 
+                necesidad de ser compilado.
+
+- Tipado dinámico
+
+- Orientado a objetos
+
+- Áreas:        Analisis de datos, educación, inteligencia 
+                artificial, etc.
+
+- Fácil legibilidad
+
+- Multiplataforma --> Windows, Linux, MacOS
+
+
+
+INSTALAR PYTHON: https://www.python.org/downloads/

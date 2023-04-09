@@ -1,0 +1,1 @@
+""" Archivo que contiene la ayuda del programa """

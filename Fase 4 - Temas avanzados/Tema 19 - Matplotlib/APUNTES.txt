@@ -1,0 +1,3 @@
+Todos los apuntes en:
+
+https://docs.hektorprofe.net/academia/python/modulo-grafico-matplotlib/#titulos-etiquetas-y-leyendas
